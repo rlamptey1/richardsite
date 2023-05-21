@@ -1,17 +1,6 @@
-Steller Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+Thanks for downloading this theme!
 
-Product Page: https://wwww.devcrud.com/
-
-Credits:
-
-    Demo Images:
-        Unsplash:       (https://www.unsplash.com)
-
-    Icons:
-		Themify Icons (https://themify.me/themify-icons)
-
-	Other:
-		jQuery (https://www.jquery.com)
-		Bootstrap (https://www.getbootstrap.com)
-		Bootstrap Affix (http://getbootstrap.com/javascript/#affix) 
-
+Theme Name: DevFolio
+Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Author: BootstrapMade.com
+Author URL: https://bootstrapmade.com
